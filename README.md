@@ -4,11 +4,17 @@ PeerNet is a comprehensive full-stack MERN (MongoDB, Express.js, React.js, Node.
 
 ### Key Features:
 User Authentication: Secure login and registration with JWT.
+
 Post Management: Create, like, and manage posts.
+
 Responsive Design: Optimized for all devices.
+
 Dark Mode: Easy theme switching.
+
 Redux Toolkit: Streamlined state management.
+
 Material UI: Stylish and responsive components.
+
 File Uploads: Manage files with Multer and GridFS.
 
 ### Technologies:
