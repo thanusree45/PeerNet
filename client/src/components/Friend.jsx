@@ -28,7 +28,7 @@ const Friend = ({ friendId, name, subtitle, userPicturePath }) => {
     
     try {
       const response = await fetch(
-        `http://localhost:3001/users/${_id}/${friendId}`,
+        `https://peernet-backend.onrender.com/users/${_id}/${friendId}`,
         {
           method: "PATCH",
           headers: {
